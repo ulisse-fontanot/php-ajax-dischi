@@ -1,0 +1,24 @@
+main{
+    width: 70%;
+    height: 80vh;
+    margin: auto;
+    padding: 50px;
+    color: white;
+    background-color: grey;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    .disco{
+        height: 300px;
+        width: 200px;
+        background-color: rgb(21, 21, 70);
+        padding: 10px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        img{
+            height: 100px;
+        }    
+    }
+}
+
