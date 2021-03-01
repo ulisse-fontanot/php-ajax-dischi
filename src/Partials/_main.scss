@@ -1,21 +1,25 @@
 main{
     width: 70%;
     height: 80vh;
-    margin: auto;
+    margin: 50px auto 0;
     padding: 50px;
     color: white;
     background-color: grey;
     display: flex;
     flex-direction: row;
     justify-content: center;
+    flex-wrap: wrap;
     .disco{
         height: 300px;
         width: 200px;
         background-color: rgb(21, 21, 70);
         padding: 10px;
+        margin: 0 10px;
         display: flex;
         flex-direction: column;
         align-items: center;
+        justify-content: space-around;
+        text-align: center;
         img{
             height: 100px;
         }    
