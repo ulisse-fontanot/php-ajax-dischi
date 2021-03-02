@@ -26,6 +26,4 @@ $dischi = [
         'canzone' => "Wake me up before you go-go",
         'copertina' => "https://www.stamptoscana.it/wp-content/uploads/2019/12/wham.jpg"
     ]
-]
-
-?>
+];
